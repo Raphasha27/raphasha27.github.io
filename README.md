@@ -1,9 +1,19 @@
 # raphasha27.github.io
 
-[![Security](https://img.shields.io/badge/Security-Policy-1f6feb?style=for-the-badge&logo=github)](SECURITY.md)
+GitHub Pages site that redirects to the main portfolio at https://koketso-raphasha.vercel.app.
 
-Part of the [Kirov Dynamics](https://github.com/Raphasha27/kirov-dynamics) ecosystem.
+## Stack
 
-This repo serves as a redirect to [koketso-raphasha.vercel.app](https://koketso-raphasha.vercel.app/) — the main portfolio of Koketso Raphasha.
+- **Type:** Static redirect page\n- **Hosting:** GitHub Pages
 
-Visitors to `raphasha27.github.io` are automatically redirected via meta refresh and JavaScript.
+## Quick Start
+
+ `bash
+n/a — static redirect page
+ ` 
+
+## Purpose\n\nAutomatically forwards visitors from raphasha27.github.io to the main portfolio site.
+
+## License
+
+MIT
